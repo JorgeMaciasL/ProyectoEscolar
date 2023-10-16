@@ -1,0 +1,9 @@
+body {
+    background-color: antiquewhite;
+}
+
+.alertContainer {
+    display: none; /*oculta un elemento*/
+    
+
+}
